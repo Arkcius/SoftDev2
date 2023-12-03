@@ -1,0 +1,21 @@
+class       Attack      Mage        Figher
+
+State
+            Name        Name        Name
+            # of Hits   MaxHP       MaxHP
+            DamageType  CurrentHP   CurrentHP
+
+Behavior
+            Getter      Attack      Attack
+                        Attacked    Attacked
+                        Heal        Heal
+                        isConscious isConscious
+
+
+
+class       State       Behavior
+ Trolling   Name        Get/set
+Trollzord   MaxHP       isVanquished
+            CurHp       regen
+                        attack
+                        take damage
