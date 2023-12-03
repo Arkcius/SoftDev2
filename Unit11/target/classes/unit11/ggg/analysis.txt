@@ -1,0 +1,6 @@
+a. if its no sleep then the program finishes almost instantly whereas if u increase it the goats still eat as soon as they are able 
+it just overall takes longer as the time between drops is longer honestly the .25 of a second is i feel a good speed.
+
+b.it makes it so that everytime they drop turnips more are dropped which since the goats always eat immediately but it i also feels 
+makes the goats more even scores cause now for every drop they all almost always all get a chance to grab atleast one where as before
+always atleast one goat got left out of each feeding cycle
