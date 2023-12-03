@@ -1,0 +1,18 @@
+Ship
+    Name
+    Hull
+        Damage Taken
+    Shield
+        Amount
+        Recharge
+    Ship Size
+    Weapon amount
+    Armament
+
+Armament
+    Name
+    Damage type
+        Green (HEAVY)
+        Red (NORMAL)
+        Blue (ION)
+

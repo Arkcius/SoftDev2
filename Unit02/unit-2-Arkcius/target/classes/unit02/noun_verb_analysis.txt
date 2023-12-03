@@ -1,0 +1,12 @@
+Nouns:Library, Patron,Book,Shelves,title,author,catalogue,name,
+Verbs:check out, return,,tracked
+
+Library
+    shelves
+        Books
+            title
+            author
+    Patron
+        Books out
+        name
+    
