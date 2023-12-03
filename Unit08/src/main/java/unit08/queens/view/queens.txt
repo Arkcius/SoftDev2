@@ -1,0 +1,11 @@
+state 
+    queens that have been placed
+    # of queens placed
+    last move
+
+valid
+    can attack return true
+goal
+    it is all valid and # queens on board
+successors
+    set of next moves
